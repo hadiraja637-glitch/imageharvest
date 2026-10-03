@@ -1,0 +1,6 @@
+{
+  "name": "ImageHarvest Pro - Web Image Scraper & Bulk Asset Optimizer",
+  "description": "Extract, compress, convert, bulk rename, and organize web images into folders with ZIP archival, cloud backups, and collaborative review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
